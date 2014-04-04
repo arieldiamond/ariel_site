@@ -1,0 +1,62 @@
+body {
+  font-family: 'Elsie', cursive;
+  color: #FAF3BC;
+  background: #CF5300; 
+}
+
+a {
+  color: #3A003A;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 5.750em;
+  letter-spacing: 1.5px;
+  color: #FFCC00;
+}
+
+h2 {
+  font-family: 'Gilda Display', serif;
+  font-size: 1.500em;
+  color: #FAF3BC;
+
+}
+
+h3 {
+  font-family: 'Gilda Display', serif;
+  font-size: 1.000em;
+  letter-spacing: 0.50px;
+  color: #FAF3BC;
+}
+
+/*ul.nav {
+  list-style: none;
+  float: right;
+}
+
+ul.nav li {
+  float: center;
+  margin-right: 20px;
+}*/
+
+#menu {
+  display: block;
+  color:  #FFEB99;
+  font-size: 20px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#logo img {
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#pizza img {
+  height: 100%;
+  width: 100%;
+}
