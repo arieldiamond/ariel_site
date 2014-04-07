@@ -1,0 +1,112 @@
+body {
+  font-family: 'Elsie', cursive;
+  color: #FAF3BC;
+  background: #CF5300 
+  url('img/bg-texture.jpg') repeat;
+}
+
+a {
+  color: #3A003A;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.750em;
+  letter-spacing: 1.5px;
+  color: #FFCC00;
+}
+
+h2 {
+  font-family: 'Gilda Display', serif;
+  font-size: 1.500em;
+  color: #FAF3BC;
+
+}
+
+h3 {
+  font-family: 'Gilda Display', serif;
+  font-size: 1.000em;
+  letter-spacing: 0.50px;
+  color: #FAF3BC;
+}
+
+ul.nav {
+  list-style: none;
+  float: left;
+}
+
+ul.nav li {
+  float: left;
+  margin-left: 20px;
+}
+
+ul.nav li a {
+  color:  #FFEB99;
+  font-size: 20px;
+    vertical-align: center;
+}
+
+#ariel_intro {
+  vertical-align: center;
+}
+
+#name {
+  margin: 0 0 0 110px;
+}
+
+#ariel_intro img {
+  border: 8px solid #3A003A;
+  margin: 40px 40px 0 0;
+  height: 100%;
+  width: 100%;
+}
+
+#intro {
+  margin: 50px 0 75px 0;
+}
+
+#intro2 img {
+  border: 8px solid #3A003A;
+  margin: 40px 40px 0 0;
+  height: 100%;
+  width: 100%;
+}
+
+#border {
+  border-top: 8px solid #3A003A;
+}
+
+#intro3 img {
+  height: 100%;
+  width: 100%;
+  margin-right: 20px;
+}
+
+#bio {
+  margin-left: 40px;
+}
+
+#copyright {
+  border-top: 8px solid #3A003A;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+#bakin img {
+  background-color: 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
